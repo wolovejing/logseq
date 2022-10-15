@@ -1,0 +1,4 @@
+- [【完整版】终于有人讲清楚了KMP算法，Java语言C语言实现_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UL411E7M8/?spm_id_from=333.788.recommend_more_video.8&vd_source=eb27f312a865e44f72c4c5473e12b7ca)
+- [【搬运】油管阿三哥讲KMP查找算法，中英文字幕，人工翻译，简单易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18k4y1m7Ar/?spm_id_from=333.337.search-card.all.click&vd_source=eb27f312a865e44f72c4c5473e12b7ca)
+- [一个视频让你彻底学懂KMP算法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oQ4y1D7Vw/?spm_id_from=333.337.search-card.all.click&vd_source=eb27f312a865e44f72c4c5473e12b7ca)
+-
